@@ -1,12 +1,12 @@
 PROJECT TITLE: 3D Rectangle Game
 
-PURPOSE OF PROJECT: One day an idea came to me that I should make a project where I created 3D Rectangles by drawing two rectangles, and then draw lines to connect the rectangles. 
+PURPOSE OF PROJECT: In Java, I know how to use the Graphics class to draw a rectangle and a line. A cube is simply two rectangles connected by four lines. So one day I decided to apply this principle to draw a cube in a Java Applet. I then added a feature allowing you to click the cube and drag it across the screen. 
 
-*This transformed into an idea of a game where you have a giant cube, and you are given smaller 3D rectangles. Then, the point of the game is to populate the cube with the given rectangles. 
+*This project transformed into an idea for a game where you are given a giant cube and multiple small 3D rectangles. Then, the point of the game would be to populate the cube with the given rectangles. 
 
 USER INSTRUCTIONS: Clone this repository onto your computer and then click run applet on CubeDriver.java
 
-Side Note: This project is still in progress, as of right now you can click a cube and drag it around the screen.  
+Side Note: This project is still in progress, as of right now you can only click a cube and drag it around the screen.  
 
 Why is this project cool?:
 -attention to pixels
